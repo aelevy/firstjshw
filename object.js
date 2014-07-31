@@ -11,5 +11,7 @@ myAndrew.name = "Drew";
 
 //add my phone number to the object
 myAndrew.phone = "123-456-7890"
+
+
 //delete my age
 delete myAndrew.age;
